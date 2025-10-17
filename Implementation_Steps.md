@@ -4,7 +4,7 @@
 # Setup Instructions
 ```
 
-![Three-Tier Architecture](3 tier.png)
+![Three-Tier Architecture](3tier.png)
 
 
 **make sure you use your S3 bucket to store code and copy to webservers**
