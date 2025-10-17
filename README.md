@@ -11,9 +11,6 @@
 
 
 
-![Three-Tier Architecture]
-
-
 ### Overview
 In this architecture, we have three main layers:
 1. **Web Tier**: Handles client requests and serves the front-end website.
